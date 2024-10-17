@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mle-user/mle_projects/mle-mlflow/mlruns/0/918d0940b1b34cc7aaf8f5d774ffae09/artifacts
+end_time: 1729075800174
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 918d0940b1b34cc7aaf8f5d774ffae09
+run_name: indecisive-kite-423
+run_uuid: 918d0940b1b34cc7aaf8f5d774ffae09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729075800138
+status: 4
+tags: []
+user_id: mle-user
