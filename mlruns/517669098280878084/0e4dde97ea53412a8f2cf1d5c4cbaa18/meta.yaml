@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mle-user/mle_projects/mle-mlflow/mlruns/517669098280878084/0e4dde97ea53412a8f2cf1d5c4cbaa18/artifacts
+end_time: 1729269764555
+entry_point_name: ''
+experiment_id: '517669098280878084'
+lifecycle_stage: active
+run_id: 0e4dde97ea53412a8f2cf1d5c4cbaa18
+run_name: dashing-slug-376
+run_uuid: 0e4dde97ea53412a8f2cf1d5c4cbaa18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729269764499
+status: 3
+tags: []
+user_id: mle-user

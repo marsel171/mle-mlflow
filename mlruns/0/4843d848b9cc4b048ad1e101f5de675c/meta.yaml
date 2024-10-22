@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mle-user/mle_projects/mle-mlflow/mlruns/0/4843d848b9cc4b048ad1e101f5de675c/artifacts
+end_time: 1729076476159
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4843d848b9cc4b048ad1e101f5de675c
+run_name: upbeat-jay-382
+run_uuid: 4843d848b9cc4b048ad1e101f5de675c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729076476133
+status: 3
+tags: []
+user_id: mle-user

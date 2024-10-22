@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1729318265229
+current_stage: None
+description: null
+last_updated_timestamp: 1729318265229
+name: train_users_churn_model
+run_id: d523dd4bd26c4e6190608a5dd279cb4e
+run_link: null
+source: file:///home/mle-user/mle_projects/mle-mlflow/mlruns/758661252710169029/d523dd4bd26c4e6190608a5dd279cb4e/artifacts/models
+status: READY
+status_message: null
+user_id: null
+version: 5
